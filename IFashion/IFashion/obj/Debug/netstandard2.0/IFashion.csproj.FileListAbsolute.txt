@@ -1,0 +1,16 @@
+G:\Project\C#\IFashion\IFashion\IFashion\bin\Debug\netstandard2.0\IFashion.deps.json
+G:\Project\C#\IFashion\IFashion\IFashion\bin\Debug\netstandard2.0\IFashion.dll
+G:\Project\C#\IFashion\IFashion\IFashion\bin\Debug\netstandard2.0\IFashion.pdb
+G:\Project\C#\IFashion\IFashion\IFashion\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Project\C#\IFashion\IFashion\IFashion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\Project\C#\IFashion\IFashion\IFashion\obj\Debug\netstandard2.0\Views\MainTabedPage.xaml.g.cs
+G:\Project\C#\IFashion\IFashion\IFashion\obj\Debug\netstandard2.0\Views\RegistLoginView.xaml.g.cs
+G:\Project\C#\IFashion\IFashion\IFashion\obj\Debug\netstandard2.0\Views\SignInPopUpView.xaml.g.cs
+G:\Project\C#\IFashion\IFashion\IFashion\obj\Debug\netstandard2.0\Views\SingUpPopUpView.xaml.g.cs
+G:\Project\C#\IFashion\IFashion\IFashion\obj\Debug\netstandard2.0\IFashion.csproj.CoreCompileInputs.cache
+G:\Project\C#\IFashion\IFashion\IFashion\obj\Debug\netstandard2.0\IFashion.AssemblyInfoInputs.cache
+G:\Project\C#\IFashion\IFashion\IFashion\obj\Debug\netstandard2.0\IFashion.AssemblyInfo.cs
+G:\Project\C#\IFashion\IFashion\IFashion\obj\Debug\netstandard2.0\IFashion.dll
+G:\Project\C#\IFashion\IFashion\IFashion\obj\Debug\netstandard2.0\IFashion.pdb
+G:\Project\C#\IFashion\IFashion\IFashion\obj\Debug\netstandard2.0\IFashion.csprojAssemblyReference.cache
+G:\Project\C#\IFashion\IFashion\IFashion\obj\Debug\netstandard2.0\XamlC.stamp

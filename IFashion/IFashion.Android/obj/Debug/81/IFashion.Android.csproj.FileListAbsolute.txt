@@ -1,0 +1,6 @@
+G:\Project\C#\IFashion\IFashion\IFashion.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+G:\Project\C#\IFashion\IFashion\IFashion.Android\obj\Debug\81\IFashion.Android.nuget.stamp
+G:\Project\C#\IFashion\IFashion\IFashion.Android\obj\Debug\81\IFashion.Android.csprojAssemblyReference.cache
+G:\Project\C#\IFashion\IFashion\IFashion.Android\obj\Debug\81\libraryimports.cache.stamp
+G:\Project\C#\IFashion\IFashion\IFashion.Android\obj\Debug\81\res.flag
+G:\Project\C#\IFashion\IFashion\IFashion.Android\obj\Debug\81\IFashion.Android.csproj.CoreCompileInputs.cache

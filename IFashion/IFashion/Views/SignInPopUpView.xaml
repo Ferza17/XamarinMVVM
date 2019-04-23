@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IFashion.Views.SignInPopUpView"
+             xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+             xmlns:animations="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup"
+             xmlns:converters="clr-namespace:Rg.Plugins.Popup.Converters.TypeConverters;assembly=Rg.Plugins.Popup"
+             xmlns:enums="clr-namespace:Rg.Plugins.Popup.Enums;assembly=Rg.Plugins.Popup"
+             BackgroundColor="Transparent">
+
+    <pages:PopupPage.Animation>
+        <animations:ScaleAnimation
+            PositionIn="Center"
+            PositionOut="Center"
+            ScaleIn="1.2"
+            ScaleOut="0.8"
+            DurationIn="400"
+            DurationOut="300"
+            EasingIn="SinOut"
+            EasingOut="SinIn"
+            HasBackgroundAnimation="False"/>
+    </pages:PopupPage.Animation>
+
+
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+        <Frame HasShadow="True" Margin="40">
+            <StackLayout Orientation="Vertical" HeightRequest="300" WidthRequest="400" BackgroundColor="White">
+                <Label Margin="20,20,20,10" Text="login" FontSize="Small"></Label>
+                <Entry Margin="20,0,20,0" Placeholder="Enter Username"></Entry>
+                <Label Margin="20,20,20,10" Text="password" FontSize="Small"></Label>
+                <Entry Margin="20,0,20,0" Placeholder="Enter Password" IsPassword="True"></Entry>
+                <Button Margin="20,0,20,0" Text="Login" x:Name="BtnLogin" BackgroundColor="#FDD6C0" TextColor="White"></Button>
+            </StackLayout>
+        </Frame>
+        <ActivityIndicator x:Name="activityIndicator" IsRunning="{Binding isBusy}" VerticalOptions="Center" HorizontalOptions="Center" Color="Red"/>
+
+    </StackLayout>
+
+
+</pages:PopupPage>
